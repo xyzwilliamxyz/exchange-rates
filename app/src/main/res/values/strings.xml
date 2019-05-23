@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exchange Rates</string>
+    <string name="currencyPln">PLN</string>
+    <string name="currencyUsd">USD</string>
+    <string name="cdExchangeIcon">exchange icon</string>
+
+    <string name="lastUpdate">Last update: %s</string>
+
+    <string name="refreshSuccessMessage">Data successfully updated!</string>
+    <string name="errorMessage">Something went wrong!</string>
+    <string name="errorRetry">Retry</string>
+</resources>
